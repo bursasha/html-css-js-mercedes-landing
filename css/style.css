@@ -124,3 +124,28 @@ ul{
 	align-items: center;
 	height: 300px;
 }
+
+
+.concept{
+	padding-top: 150px;
+	margin-bottom: 150px;
+}
+
+.concept__inner{
+	max-width: 900px;
+	margin-left: auto;
+}
+
+.section__title{
+	margin-bottom: 25px;
+	text-transform: uppercase;
+	font-size: 18px;
+	color: #F402A2;
+	font-family: 'Corporate-A-Bold';
+}
+
+.concept__text{
+	font-size: 24px;
+	margin-bottom: 25px;
+	line-height: 120%;
+}
