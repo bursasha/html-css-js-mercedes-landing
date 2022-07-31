@@ -59,6 +59,10 @@ ul{
 	height: 100px;
 } 
 
+.header__logo{
+	margin-left: 120px;
+}
+
 .list{
 	display: flex;
 }
@@ -179,6 +183,11 @@ ul{
 	text-align: center;
 	padding: 14px;
 	border: 1px solid #F402A2;
+	transition: all .3s;
+}
+.premier__btn:hover{
+	color: #53A1CB;
+	border: 1px solid #53A1CB;
 }
 
 
